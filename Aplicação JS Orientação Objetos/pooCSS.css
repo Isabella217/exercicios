@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.tarefa-list {
+    margin-top: 20px;
+}
+.item-tarefa {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
